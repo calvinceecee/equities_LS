@@ -1,0 +1,61 @@
+Sector,Sub Sector,Ticker
+Credit,High Yield,HYG US Equity
+Credit,High Yield,JNK US Equity
+Credit,Investment Grade,LQD US Equity
+Credit,Loans,BKLN US Equity
+Credit,Loans,SRLN US Equity
+Commodities,Oil,USO US Equity
+Commodities,Broad Commod,DBC US Equity
+Commodities,Gold,GLD US Equity
+Commodities,Gold Miners,GDX US Equity
+Commodities,Silver,SLV US Equity
+Commodities,Silver Miners,SIL US Equity
+Equity,S&P 500,SPY US Equity
+Equity,S&P 500,VOO US Equity
+Equity,Russell 2000,IWM US Equity
+Equity,Nasdaq 100,QQQ US Equity
+Equity,Semis,SMH US Equity
+Equity,Semis,SOXX US Equity
+Equity,Semis,XSD US Equity
+Equity,Semis,PSI US Equity
+Equity,Communication Services,XLC US Equity
+Equity,Communication Services,VOX US Equity
+Equity,Communication Services,IVSPF US Equity
+Equity,Communication Services,ICMNF US Equity
+Equity,Consumer Discretionary,XLY US Equity
+Equity,Consumer Discretionary,VCR US Equity
+Equity,Consumer Discretionary,IYC US Equity
+Equity,Consumer Discretionary,FDIS US Equity
+Equity,Consumer Staples,XLP US Equity
+Equity,Consumer Staples,VDC US Equity
+Equity,Consumer Staples,IYK US Equity
+Equity,Consumer Staples,KXI US Equity
+Equity,Energy,XLE US Equity
+Equity,BTC,IBIT US Equity
+Equity,BTC,GBTC US Equity
+Equity,BTC,BITO US Equity
+Equity,BTC,FBTC US Equity
+Equity,BTC,MSTR US Equity
+Equity,Financials,XLF US Equity
+Equity,Health Care,XLV US Equity
+Equity,Industrials,XLI US Equity
+Equity,Materials,XLB US Equity
+Equity,Real Estate,XLRE US Equity
+Equity,Technology,XLK US Equity
+Equity,Utilities,XLU US Equity
+Equity,Metals and Mining,XME US Equity
+Equity,Retail,XRT US Equity
+Equity,Homebuilders,XHB US Equity
+Equity,Oil and Gas,XOP US Equity
+Equity,Biotech,XBI US equity
+Equity,Regional Banks,KRE US Equity
+Equity,Single Name,ARM US Equity
+Equity,Single Name,TLRY US Equity
+Equity,Single Name,BYND US Equity
+Equity,Single Name,DJT US Equity
+Equity,Single Name,CART US Equity
+Equity,Single Name,AI US Equity
+Equity,Single Name,ZIM US Equity
+Equity,Single Name,TSLA US Equity
+Equity,Single Name,GME US Equity
+Equity,Single Name,MARA US Equity
